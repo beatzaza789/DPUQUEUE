@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DPU Queues</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <integer name="main">1</integer>
+    <integer name="acname">2</integer>
+    <integer name="queues">3</integer>
+    <integer name="money">4</integer>
+    <integer name="booking">5</integer>
+    <integer name="register">6</integer>
+    <integer name="listQ">7</integer>
+    <integer name="input">8</integer>
+    <integer name="code">9</integer>
+    <integer name="codetail">10</integer>
+</resources>
